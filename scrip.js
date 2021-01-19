@@ -1,3 +1,4 @@
+//calculadora sin poo
 var operadorA, operadorB, operador;
 function init(){
     //variable
